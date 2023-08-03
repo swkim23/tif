@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">tif</string>
+    <!-- Title for channel scanning menu -->
+    <string name="tif_channel_setup_title">Channel Setup</string>
+    <!-- Message that says channel is not yet scanned during channel scanning process -->
+    <string name="tif_channel_setup_description">This may take several minutes.</string>
+    <!-- Button text that allows the user to manually stop scanning -->
+    <string name="tif_channel_setup_cancel">Cancel Scan</string>
+    <string name="tif_channel_scan_canceled">Channel scan canceled</string>
+    <string name="tif_channel_error_unknown">Unknown error</string>
+    <string name="tif_channel_error_no_channels">No channels found</string>
+    <string name="tif_channel_error_no_programs">No programs found</string>
+    <string name="lb_guidedaction_finish_title">Guide Action Finished</string>
 </resources>
